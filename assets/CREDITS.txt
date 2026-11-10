@@ -1,0 +1,12 @@
+Technology logos used in the "Tools" section. Each logo is a trademark of its owner and is shown
+only to name the technology. Sources and licenses of the SVG files:
+
+- gilbarbara/logos (via Iconify "logos" set) - CC0 1.0: java, typescript, javascript, rust, dart, html,
+  css, react, nextjs, astro, tailwind, vite, nodejs, socketio, postgresql, mongodb, mysql, mariadb,
+  redis, linux, docker, nginx, apache, cloudflare, git, github, gradle, tauri
+- simple-icons/simple-icons (via Iconify) - CC0 1.0: discordjs, express, pterodactyl, pm2, burpsuite, cisco
+- devicons/devicon 2.18.0 - MIT License, Copyright (c) 2015 konpa: sqlite, flutter
+- lobehub/lobe-icons (@lobehub/icons-static-svg 1.102.0) - MIT License, Copyright (c) 2023 LobeHub:
+  claude, codex, cursor, kimi, openclaw, qwen
+- PaperMC/website - MIT License, Copyright (c) PaperMC: paper, velocity
+- GeyserMC organization avatar on GitHub: geyser
