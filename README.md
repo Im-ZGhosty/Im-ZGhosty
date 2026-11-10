@@ -1,27 +1,44 @@
-<a href="https://imzghosty.pages.dev"><img src="assets/banner.png" width="100%" alt="ImZGhosty. Apasionado por la programación y por crear herramientas que facilitan el trabajo de las personas. Programando desde 2017."></a>
+<a href="https://imzghosty.pages.dev"><img src="assets/banner.png" width="100%" alt="ImZGhosty. Una terminal: whoami, ghosty, programando desde 2017. ls ~/repos: bots, plugins, webs y apps. open imzghosty.pages.dev"></a>
 
-## Hola, soy ImZGhosty
+Soy Ghosty. Programo desde 2017, casi siempre con la misma idea: que a alguien le cueste menos hacer su trabajo. Si vienes del [portafolio](https://imzghosty.pages.dev), ya viste el escaparate; esto es el taller.
 
-Me apasiona la programación desde que escribí mis primeras líneas de HTML en el bloc de notas del colegio. Desde 2017 creo proyectos propios y para otros con una idea en común: que le faciliten el trabajo a alguien. Llevo más de 35 proyectos construidos.
+### ¿Por qué hay tan pocos repos públicos?
 
-Entiendo cómo funcionan los sistemas por dentro y me apoyo en herramientas de IA como Claude Code y Codex como referencia y para avanzar más rápido. Lo que entrego lo reviso y lo pruebo, y sigo aprendiendo con cada proyecto.
+Porque casi todo lo que programo es para clientes o comunidades, y ese código se queda privado. Esto es lo que hay detrás:
 
-### Lo que he hecho
+| Qué | Para qué | Con qué |
+|---|---|---|
+| **Bots de Discord** | Soporte, moderación y organización de comunidades | TypeScript, JavaScript, Discord.js |
+| **Plugins de Minecraft** | Sistemas propios para servidores | Java, Paper, Velocity, Gradle |
+| **Webs** | Sitios rápidos y bilingües, paneles de administración | Astro, React, Next.js, Tailwind |
+| **Apps** | Escritorio y celular para el día a día de un negocio | Tauri, Flutter |
+| **Backend** | APIs y datos en tiempo real | Node.js, Express, Socket.IO, PostgreSQL, MongoDB, Redis |
 
-- **Desarrollo web:** sitios rápidos y bilingües, tarjetas de presentación y paneles de administración.
-- **Automatización y bots:** asistentes que atienden soporte, moderan y organizan comunidades en línea.
-- **Servidores de videojuegos:** servidores de Minecraft con sistemas propios, sobre paneles como Pterodactyl.
-- **Servidores Linux:** máquinas en OVH, ReliableSite y Sparked Host, con Nginx, Apache y Docker.
-- **Aplicaciones:** programas de escritorio y móvil para el día a día de un negocio.
-- **Backend y datos:** APIs, bases de datos y servicios que comparten información en tiempo real.
-- **Ciberseguridad y redes:** pruebas de seguridad en aplicaciones web con Burp Suite y redes Cisco.
+Y para que todo eso corra: Linux, Docker, Nginx, Pterodactyl, PM2 y Cloudflare.
 
-<img src="assets/herramientas.png" width="100%" alt="Herramientas: Java, TypeScript, JavaScript, Rust, Dart, HTML, CSS, React, Next.js, Astro, Tailwind, Vite, Node.js, Discord.js, Express, Socket.IO, PostgreSQL, MongoDB, MySQL, MariaDB, Redis, SQLite, Linux, Docker, Nginx, Apache, Pterodactyl, PM2, Cloudflare, Git, GitHub, Paper, Velocity, Geyser, Gradle, Tauri, Flutter, Burp Suite, Cisco, Claude Code, Codex, Cursor, Kimi, OpenClaw y Qwen.">
+### Lo que sí puedes probar
 
-### Dónde encontrarme
+**[TaskMaster](https://github.com/Im-ZGhosty/taskmaster-releases)**: app de escritorio para Windows para organizar tareas y proyectos. Funciona sin conexión y se usa casi entera con el teclado. [Descargar la última versión](https://github.com/Im-ZGhosty/taskmaster-releases/releases/latest).
 
-**[Portafolio](https://imzghosty.pages.dev)** · [Discord](https://discord.gg/9q2NhvP6vy) · [YouTube](https://youtube.com/@imzghosty) · [Instagram](https://www.instagram.com/_imzghosty_/) · [TikTok](https://tiktok.com/@imzghosty) · [Twitch](https://twitch.tv/imzghosty)
+### Changelog
 
-¿Tienes una oferta de trabajo o un proyecto? Escríbeme por Discord; mi correo estará disponible muy pronto.
+```text
+2026  primeros clientes · desarrollo asistido por IA
+2025  desarrollo web y de sistemas, de lleno
+2022  una plataforma con cientos de usuarios conectados a la vez
+2021  mi primera herramienta usada por decenas de comunidades
+2017  primeros proyectos por mi cuenta
+ ...  primeras líneas de HTML, en el bloc de notas del colegio
+```
 
-<sub>Los logos de las herramientas pertenecen a sus dueños; fuentes y licencias en [assets/CREDITS.txt](assets/CREDITS.txt).</sub>
+### Cómo trabajo
+
+- Me gusta entender cómo funciona un sistema por dentro antes de construir encima.
+- Uso IA (Claude Code y Codex) como copiloto: me da referencias y velocidad, pero lo que entrego lo reviso y lo pruebo yo.
+- Sigo aprendiendo con cada proyecto.
+
+### Hablemos
+
+Para trabajo o proyectos, escríbeme por **[Discord](https://discord.gg/9q2NhvP6vy)** (el correo llega pronto). También estoy en [YouTube](https://youtube.com/@imzghosty) · [Instagram](https://www.instagram.com/_imzghosty_/) · [TikTok](https://tiktok.com/@imzghosty) · [Twitch](https://twitch.tv/imzghosty).
+
+<sub>¿Encontraste un bug en TaskMaster? Enciende la batiseñal: [abre un issue](https://github.com/Im-ZGhosty/taskmaster-releases/issues).</sub>
