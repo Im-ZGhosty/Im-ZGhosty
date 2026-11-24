@@ -1,0 +1,13 @@
+Credits for assets/ficha.png
+
+Technology logos (inventory). Each logo is a trademark of its owner and is shown only to name the technology.
+- gilbarbara/logos (via Iconify "logos" set) - CC0 1.0: java, typescript, javascript, rust, dart, html, css,
+  react, nextjs, astro, tailwind, vite, nodejs, postgresql, mongodb, redis, tauri, linux, docker, nginx, cloudflare
+- simple-icons/simple-icons (via Iconify) - CC0 1.0: discordjs, express
+- devicons/devicon 2.18.0 - MIT License, Copyright (c) 2015 konpa: flutter
+
+Fonts
+- "SSS" and "Smokin' Sexy Style!!": DMC5Font, shared by Indra135 on DeviantArt
+  (https://www.deviantart.com/indra135/art/Devil-May-Cry-5-Logo-Font-943457197).
+  A fan nod to Devil May Cry 5; Devil May Cry is a trademark of Capcom.
+- Big Shoulders Display, Hanken Grotesk and JetBrains Mono - SIL Open Font License 1.1.
